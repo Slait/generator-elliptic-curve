@@ -44,7 +44,7 @@ python elliptic_curve_generator.py
 x-координата=2
 y-координата=22
 Модуль для приватных ключей=79
-
+![alt text](https://github.com/Slait/generator-elliptic-curve/blob/main/elliptic_curve_points.png?raw=true)
 ## Примечания
 
 - Точка G должна лежать на эллиптической кривой
